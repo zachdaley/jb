@@ -4,6 +4,7 @@ permalink: /:categories/:year/:month/:day/:title
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 pygments: true
+markdown: redcarpet
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
@@ -11,10 +12,10 @@ pygments: true
 title : Zach's Strapboot
 # tagline: Site Tagline
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
+  name : Zach Daley
+  email : zachary.daley@eagles.ewu.edu
+  github : zachdaley
+  twitter : zach_daley
   feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
